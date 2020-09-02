@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/heroes-villains/static/css/main.5f361e03.chunk.css",
+    "main.js": "/heroes-villains/static/js/main.9ab17419.chunk.js",
+    "main.js.map": "/heroes-villains/static/js/main.9ab17419.chunk.js.map",
+    "runtime-main.js": "/heroes-villains/static/js/runtime-main.3f610c75.js",
+    "runtime-main.js.map": "/heroes-villains/static/js/runtime-main.3f610c75.js.map",
+    "static/js/2.4866a2bd.chunk.js": "/heroes-villains/static/js/2.4866a2bd.chunk.js",
+    "static/js/2.4866a2bd.chunk.js.map": "/heroes-villains/static/js/2.4866a2bd.chunk.js.map",
+    "index.html": "/heroes-villains/index.html",
+    "precache-manifest.a54fbadcfb419441b45cbbe1ac11a68a.js": "/heroes-villains/precache-manifest.a54fbadcfb419441b45cbbe1ac11a68a.js",
+    "service-worker.js": "/heroes-villains/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/heroes-villains/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4866a2bd.chunk.js.LICENSE.txt": "/heroes-villains/static/js/2.4866a2bd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/heroes-villains/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f610c75.js",
+    "static/js/2.4866a2bd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9ab17419.chunk.js"
+  ]
+}
