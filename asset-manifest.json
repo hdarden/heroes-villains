@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/heroes-villains/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/heroes-villains/static/js/main.f231ff36.chunk.js",
-    "main.js.map": "/heroes-villains/static/js/main.f231ff36.chunk.js.map",
+    "main.js": "/heroes-villains/static/js/main.ac9534a6.chunk.js",
+    "main.js.map": "/heroes-villains/static/js/main.ac9534a6.chunk.js.map",
     "runtime-main.js": "/heroes-villains/static/js/runtime-main.3f610c75.js",
     "runtime-main.js.map": "/heroes-villains/static/js/runtime-main.3f610c75.js.map",
-    "static/js/2.31dd7d73.chunk.js": "/heroes-villains/static/js/2.31dd7d73.chunk.js",
-    "static/js/2.31dd7d73.chunk.js.map": "/heroes-villains/static/js/2.31dd7d73.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/heroes-villains/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.2857aae0.chunk.js": "/heroes-villains/static/js/2.2857aae0.chunk.js",
+    "static/js/2.2857aae0.chunk.js.map": "/heroes-villains/static/js/2.2857aae0.chunk.js.map",
     "index.html": "/heroes-villains/index.html",
-    "precache-manifest.8cbcec4d715ec44897bef09dda843825.js": "/heroes-villains/precache-manifest.8cbcec4d715ec44897bef09dda843825.js",
+    "precache-manifest.81cdaea9a368f3875be1b4ff2cc7508d.js": "/heroes-villains/precache-manifest.81cdaea9a368f3875be1b4ff2cc7508d.js",
     "service-worker.js": "/heroes-villains/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/heroes-villains/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/heroes-villains/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.31dd7d73.chunk.js.LICENSE.txt": "/heroes-villains/static/js/2.31dd7d73.chunk.js.LICENSE.txt"
+    "static/js/2.2857aae0.chunk.js.LICENSE.txt": "/heroes-villains/static/js/2.2857aae0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3f610c75.js",
-    "static/js/2.31dd7d73.chunk.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.2857aae0.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f231ff36.chunk.js"
+    "static/js/main.ac9534a6.chunk.js"
   ]
 }
